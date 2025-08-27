@@ -1,17 +1,8 @@
 {
   "build": {
     "web": {
-      "commands": ["npm run build"],
-      "outputDir": "dist"
-    }
-  },
-  "environments": {
-    "production": {
-      "build": {
-        "web": {
-          "commands": ["npm run build"]
-        }
-      }
+      "commands": ["echo 'Base44 project ready'"],
+      "outputDir": "."
     }
   }
 }
