@@ -1,8 +1,0 @@
-{
-  "build": {
-    "web": {
-      "commands": ["echo 'Base44 project ready'"],
-      "outputDir": "."
-    }
-  }
-}
